@@ -1,0 +1,6 @@
+[submodule "DreamEJB"]
+	path = DreamEJB
+	url = https://github.com/apindozzi99/DreamEJB.git
+[submodule "DreamWEB"]
+	path = DreamWEB
+	url = https://github.com/apindozzi99/DreamWEB.git
